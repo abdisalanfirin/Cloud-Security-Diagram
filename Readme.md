@@ -18,4 +18,4 @@ Load balancer
 All 4 VMs that I have launched
 Where Docker and Ansible are deployed.
 
-![Cload Security Diagram](./Images/Diagram.PNG)
+![Cload Security Diagram](./Images/Diagram.png)
